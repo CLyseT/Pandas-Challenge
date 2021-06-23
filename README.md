@@ -4,7 +4,7 @@
 
 Jupyter Notebook includes all work completed, therefore, this readME will advise on where to find the completed requests.
 
-Below is a guide of corresponded cells on all requests:
+Below is a guide of the corresponding cells on all requests:
 
 - Player Count – Cell 17 
 - Purchase Analysis – Cell 31
