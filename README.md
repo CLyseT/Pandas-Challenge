@@ -16,3 +16,10 @@ Below is a guide of the corresponding cells on all requests:
 - Top Profitable Items – Cell 317
 - Top Popular Items – Cell 323
 
+Written Synopsis (document is included in the Pymoli folder but the synopsis is also written below)
+
+From what I can tell from the data, it appears that in Pymoli:
+1.	There were more Male players than Female players (and the male players purchased more items/spent more).
+2.	The largest demographic of buyers was between the ages of 20-24.
+3.	The total value of any given items did not exceed $60.00 in value.
+
