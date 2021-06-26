@@ -1,8 +1,8 @@
 # Pandas-Challenge
 
-6/23/21 - completed Jupyter Notebook
+6/23/21 - Completed Jupyter Notebook file for this assignment as requested.
 
-Jupyter Notebook includes all work completed, therefore, this readME will advise on where to find the completed requests.
+Jupyter Notebook file in folder includes all work completed, therefore, this readME will advise on where to find the completed requests.
 
 Below is a guide of the corresponding cells on all requests:
 
