@@ -13,7 +13,7 @@ Below is a guide of the corresponding cells on all requests:
 - Age Demographics – Cell 150
 - Purchasing Analysis – Cell 160
 - Top Spenders – Cell 280 (& Cell 316: underneath Cell 280)
-- Top Profitable Items – Cell 317
+- Top Profitable Items – Cell 317 (please note that these two items are switched, profitable items can be found before popular items)
 - Top Popular Items – Cell 323
 
 Written Synopsis (downloadable document is included in the Pymoli folder but the synopsis is also written below for your convenience):
