@@ -16,7 +16,7 @@ Below is a guide of the corresponding cells on all requests:
 - Top Profitable Items – Cell 317
 - Top Popular Items – Cell 323
 
-Written Synopsis (document is included in the Pymoli folder but the synopsis is also written below)
+Written Synopsis (downloadable document is included in the Pymoli folder but the synopsis is also written below for your convenience):
 
 From what I can tell from the data, it appears that in Pymoli:
 1.	There were more Male players than Female players (and the male players purchased more items/spent more).
